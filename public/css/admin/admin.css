@@ -1,0 +1,28 @@
+
+#myTable_filter {
+    margin-bottom: 10px;
+    padding-right:0 ;
+  }
+  
+  #myTable_filter label {
+    font-weight: bold;
+  }
+  
+  #myTable_filter input[type="search"] {
+    padding: 5px;
+    border-radius: 4px;
+    border: none;
+    width: 36vh;
+    border: 1px solid gray;
+    outline: none;
+    padding: 1vh;
+    background-color: white;
+    color: black;
+  }
+.dataTables_filter label{
+    border-radius:1vh ;
+    color:white;
+    padding: 1vh;
+    padding-right: 0;
+    background: blue;
+}
